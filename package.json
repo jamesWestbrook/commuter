@@ -1,0 +1,22 @@
+{
+  "name": "commuter",
+  "version": "1.0.0",
+  "description": "app for showing locations that minimize commute times for n commuters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesWestbrook/commuter.git"
+  },
+  "author": "jm westbrook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesWestbrook/commuter/issues"
+  },
+  "homepage": "https://github.com/jamesWestbrook/commuter#readme",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
